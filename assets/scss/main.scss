@@ -11,10 +11,8 @@ $btn-padding-x: 28px;
 $btn-border-radius: 12px;
 $btn-success-color: #fff;
 
-@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
 
-/*======= Common CSS Start 
-=================================*/
 .w_web {
   width: -webkit-fill-available;
 }
